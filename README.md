@@ -1,4 +1,6 @@
-# README
+# IronBoard
+
+Maybe we should've written it in Rust.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
