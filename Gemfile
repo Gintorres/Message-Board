@@ -7,7 +7,7 @@ gem 'rspec-rails', group: [:development, :test]
 gem 'jquery-rails'
 gem 'rails', '~> 6.0.3', '>= 6.0.3.1'
 gem 'sqlite3', '~> 1.4'
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 gem 'sass-rails', '>= 6'
 gem 'simple_form', '~> 5.0', '>= 5.0.2'
 gem 'bootstrap-sass', '~> 3.4.1'
